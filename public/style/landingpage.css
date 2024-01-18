@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400&display=swap');
+
+
+body{
+    background-color: #E0E0FB;
+    margin: 0;
+    font-family: 'Poppins-Regular';
+}
+
+@media(max-width:768px){
+    body{
+        overflow-x: hidden;
+    }
+}
